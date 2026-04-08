@@ -3,9 +3,9 @@
 <img width="400" src="https://cdn.dribbble.com/users/761988/screenshots/2557401/clickfunnels_gif_2016_02_29.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajangadekar&label=Profile%20views&color=0e75b6&style=flat" alt="rajangadekar" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **Application Development**
 
-- 🌱 I’m currently learning **ReactJS, Python**
+- 🌱 I’m currently learning **ReactJS, Python, ReactNative**
 
 - 👯 I’m looking to collaborate on **Development**
 
